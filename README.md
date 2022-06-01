@@ -1,4 +1,3 @@
-I'll be done soon ✨
 <!---
 - 👋 Hi, I’m @soyeongchoi
 - 👀 I’m interested in 
