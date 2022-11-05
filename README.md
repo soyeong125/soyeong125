@@ -9,6 +9,6 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyeong125&theme=dracula&layout=compact&langs_count=10"/>
 <img src="https://github-readme-stats.vercel.app/api?username=soyeong125&show_icons=true&theme=dracula" height="150"/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=thdud3410@naver.com)](https://solved.ac/thdud3410@naver.com)
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=thdud3410">
 </div/
 
