@@ -7,8 +7,8 @@
 <h2 align="center"></h2>
 <br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyeong125&theme=dracula&layout=compact&langs_count=10"/>
-#<img src="https://github-readme-stats.vercel.app/api?username=soyeong125&show_icons=true&theme=dracula" height="150"/>
-#<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=thdud3410"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyeong125&theme=dracula&layout=compact&langs_count=10"/>  
+<img src="https://github-readme-stats.vercel.app/api?username=soyeong125&show_icons=true&theme=dracula" height="150"/>  
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=thdud3410"/>
   </div>
 
