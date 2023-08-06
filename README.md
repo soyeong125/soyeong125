@@ -2,15 +2,13 @@
 	
 ### Skills
 <img src="https://img.shields.io/badge/Spring%20Boot-6db33f?style=flat-square&logo=Spring%20Boot&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6db33f?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C%2B%2B-00599c?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=Redis&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Apache%20Cassandra-1287b1?style=flat-square&logo=Apache%20Cassandra&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+
 
 
 ### Education
@@ -27,7 +25,7 @@
 
 ### Certificate
 * SQLD (Apr 14 2023 ~ Apr 14 2023)
-* AWS SSA (Feb 25 2023 ~ Feb 26 2026)
+* AWS SAA (Feb 25 2023 ~ Feb 26 2026)
 * 정보처리기사 (May 22 2019)
 <!--
 ### 
