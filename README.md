@@ -27,6 +27,9 @@
 * SQLD (Apr 14 2023 ~ Apr 14 2023)
 * AWS SAA (Feb 25 2023 ~ Feb 26 2026)
 * 정보처리기사 (May 22 2019)
+
+### Boj Ranking
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thdud3410)](https://solved.ac/thdud3410)
 <!--
 ### 
 <table><tr><td valign="top" width="50%">
