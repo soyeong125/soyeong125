@@ -1,3 +1,4 @@
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=dbc5b5&height=200&section=header&text=SoYeong's%20Github&fontSize=70&fontColor=ffffff)
 	
 ### Skills
@@ -16,12 +17,13 @@
 
 ### Work Experience
 * ezCaretech Corp. - Technical Architecture (Jan 2020 ~ Mar 2023)
+* Shinhancard (
 
-<!--
+
 ### Activities
 * Samsung SDS Software Membership (Aug 2013 ~ Jul 2015)
 * KAIST Institute for IT-gifted Youth (Sep 2007 ~ Aug 2008)
--->
+
 
 ### Certificate
 * SQLD (Apr 14 2023 ~ Apr 14 2023)
@@ -54,5 +56,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=soyeong125&show_icons=true&theme=dracula" height="150"><br><br>   
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=thdud3410">
 </div>
--->
 
+-->
